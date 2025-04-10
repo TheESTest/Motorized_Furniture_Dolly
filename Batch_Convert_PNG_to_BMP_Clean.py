@@ -25,7 +25,7 @@ apply_color_quantization = False
 # Toggle to adjust endianess - has to do with the color output
 adjust_endianess = True
 # Choose desired output BMP bit depth (8, 24, or 32)
-output_bit_depth = 4  # Options: 4, 8, 24, 32
+output_bit_depth = 32  # Options: 4, 8, 24, 32
 
 #You only need to install ImageMagick if you want to output 4-bit BMP images.
 #If so, specify the executable file for your ImageMagick installation here.
