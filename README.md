@@ -1,6 +1,8 @@
 # Motorized_Furniture_Dolly
 PlatformIO project and Arduino code for a motorized furniture dolly project.
 
+![image](https://github.com/user-attachments/assets/58c09a5a-2e00-4d4d-8642-fb97565f2cd0)
+
 Files in this Github repository:
 1) Arduino code running on the ESP32-S3 dev module on the dolly: Motorized_Dolly_Motors_ESP32_4_Clean.ino
 2) PlatformIO project folder which can be opened directly in PlatformIO: Motorized_Furniture_Dolly_ESP32_Controller_Clean.zip
