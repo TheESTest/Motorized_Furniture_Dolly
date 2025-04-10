@@ -1,6 +1,5 @@
 /*
-Elation Sports Technologies LLC
-Austin Allen
+Author: Austin Allen
 
 Motorized Furniture Dolly
 
